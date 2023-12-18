@@ -101,4 +101,4 @@ function displayWeather(response) {
 let searchFormElemnt = document.querySelector("#search-form");
 searchFormElemnt.addEventListener("submit", handleSearch);
 
-searchCity("Paris");
+searchCity("Milan");
